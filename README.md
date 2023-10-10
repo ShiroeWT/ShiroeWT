@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShiroeWT
+- 👋 Hi, I’m @ShiroeWT aka Rafly Adha Prathama
 - 👀 I’m interested in learn something new
 - 🌱 I’m currently at my major Computer Science
 - 💞️ I’m looking to collaborate on some project related to my major
