@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiroewt&label=Profile%20views&color=0e75b6&style=flat" alt="shiroewt" /> </p>
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/4c/db/e84cdbc22aca134a18c4a36a3117b8e2.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiroewt" alt="shiroewt" /></a> </p>
 
 - 🌱 I’m currently learning **C fundamental**
 
@@ -11,7 +10,6 @@
 
 - ⚡ Fun fact **I still in collague**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
